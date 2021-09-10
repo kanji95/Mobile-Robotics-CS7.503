@@ -1,0 +1,14 @@
+name: mr_assignment1 
+channels:
+  - defaults
+  - open3d-admin
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - ipython
+  - jupyter
+  - sympy
+  - nose
+  - pandas
+  - open3d
